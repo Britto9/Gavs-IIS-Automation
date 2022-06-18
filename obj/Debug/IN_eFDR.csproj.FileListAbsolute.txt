@@ -1,0 +1,12 @@
+D:\Inetpub\SVN\AUTO_RENEW\IN_eFDR\IN_eFDR\IN_eFDR\bin\IN_eFDR.dll.config
+D:\Inetpub\SVN\AUTO_RENEW\IN_eFDR\IN_eFDR\IN_eFDR\bin\IN_eFDR.dll
+D:\Inetpub\SVN\AUTO_RENEW\IN_eFDR\IN_eFDR\IN_eFDR\bin\IN_eFDR.pdb
+D:\Inetpub\SVN\AUTO_RENEW\IN_eFDR\IN_eFDR\IN_eFDR\bin\itextsharp.dll
+D:\Inetpub\SVN\AUTO_RENEW\IN_eFDR\IN_eFDR\IN_eFDR\bin\Newtonsoft.Json.dll
+D:\Inetpub\SVN\AUTO_RENEW\IN_eFDR\IN_eFDR\IN_eFDR\bin\Oracle.DataAccess.dll
+D:\Inetpub\SVN\AUTO_RENEW\IN_eFDR\IN_eFDR\IN_eFDR\bin\Newtonsoft.Json.xml
+D:\Inetpub\SVN\AUTO_RENEW\IN_eFDR\IN_eFDR\IN_eFDR\obj\Debug\IN_eFDR.csprojAssemblyReference.cache
+D:\Inetpub\SVN\AUTO_RENEW\IN_eFDR\IN_eFDR\IN_eFDR\obj\Debug\IN_eFDR.csproj.CoreCompileInputs.cache
+D:\Inetpub\SVN\AUTO_RENEW\IN_eFDR\IN_eFDR\IN_eFDR\obj\Debug\IN_eFDR.csproj.CopyComplete
+D:\Inetpub\SVN\AUTO_RENEW\IN_eFDR\IN_eFDR\IN_eFDR\obj\Debug\IN_eFDR.dll
+D:\Inetpub\SVN\AUTO_RENEW\IN_eFDR\IN_eFDR\IN_eFDR\obj\Debug\IN_eFDR.pdb
