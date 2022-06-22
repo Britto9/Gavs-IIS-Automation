@@ -1,8 +1,1 @@
 Test1
-Test2
-<<<<<<< HEAD
-Test3
-Test4
-=======
-Test#
->>>>>>> ea9f511983fd688f2f5eea3be0913819c8a9c875
